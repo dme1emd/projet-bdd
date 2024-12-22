@@ -7,10 +7,10 @@ Commence par créer les tables de la base de données en exécutant les scripts 
 
 1. **`\i create-tables.sql`**
 2. **`\i fonctions.sql`**
-3. ** `\i triggers.sql`**
-4. ** `python3 data-generator.py`**
-5. ** `\i donnees-billeterie.sql`**
-6. ** `\i transaction.sql` ** 
+3. **`\i triggers.sql`**
+4. **`python3 data-generator.py`**
+5. **`\i donnees-billeterie.sql`**
+6. **`\i transaction.sql`** 
    Ce script crée toutes les tables nécessaires à la gestion de la billetterie (clients, réservations, billets, séances, événements, salles, etc.).
 
 ## Fonctionnalités
